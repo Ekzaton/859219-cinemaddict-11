@@ -1,7 +1,6 @@
 # Личный проект «Киноман» [![Build status][travis-image]][travis-url]
 
 * Студент: [Сергей Зуев](https://up.htmlacademy.ru/ecmascript/11/user/859219).
-* Наставник: `Неизвестно`.
 
 ---
 
